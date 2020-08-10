@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi I'm Siddhartha 👋 👩🏾‍💻
 
+I am a software engineer who is passonate about converting problem in to working solutions, creating technology which helps, an building a comunity of devloper. Some Technologies i currently like to work with Web, Android, Game and desktop app development. i do worked with languages Python, Java, JavaScripts, PHP.I like to contribute to open-source programs.
 <!--
 **sidd5sci/sidd5sci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
