@@ -18,7 +18,7 @@ I am a software engineer who is passonate about converting problem in to working
 ## 🔭Find me over internet 
 * 🚀 Twitter [sidd5sci](https://twitter.com) 
 * 🚀 Instagram [siddhartha.stack](https://instagram.com/siddhartha.stack)
-* 🚀 LinkedIn [Siddhartha singh](https://linkedin.com/)
+* 🚀 LinkedIn [Siddhartha singh](https://www.linkedin.com/in/siddhartha-singh/)
 
 
 <!--
