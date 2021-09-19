@@ -1,10 +1,10 @@
 # Hi I'm Siddhartha 👋 👨🏻‍💻
 
-I am a software engineer who is passonate about converting problem in to working solutions, creating technology which helps developer and non-developer both and building a comunity of developer. Some Technologies i currently like to work with Web, Android, Game and desktop app development. I like to contribute to open-source programs.
+I am a software engineer who is passonate about converting problem in to working solutions, creating technology which helps developer and non-developer both and building a comunity of developers. Some Technologies i currently like to work with Web, Android and Game development.
 
 ## What I do
-* Develop Games 🎮 ( [Edge Adventures](https://play.google.com/store/apps/details?id=comtempedge.httptakenkart.edgeadventues), [Catch the Chickens](https://play.google.com/store/apps/details?id=comtemp.httptakenkart.catchthechicken) )
-* Web Apps 💻 ( [frappyPie](http://frappypie.com/home) )
+* Develop Games 🎮 ( [Edge Adventures](https://play.google.com/store/apps/details?id=comtempedge.httptakenkart.edgeadventues), [Catch the Chickens](https://play.google.com/store/apps/details?id=comtemp.httptakenkart.catchthechicken) , [Love Ludo](https://loveludo.in))
+* Web Apps 💻 ( [frappyPie](https://frappypie.com) )
 * Mobile Apps (Native / Hybrid) 📱 📲 ( [Demos](https://play.google.com/store/apps/developer?id=psartworks+studios) )
 * Desktop Apps 💻
 * Robotics & IOTs 🤖
