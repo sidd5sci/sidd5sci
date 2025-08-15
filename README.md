@@ -4,7 +4,7 @@ I am a software engineer who is passonate about converting problem in to working
 
 ## What I do
 * Develop Games 🎮 ( [Edge Adventures](https://play.google.com/store/apps/details?id=comtempedge.httptakenkart.edgeadventues), [Catch the Chickens](https://play.google.com/store/apps/details?id=comtemp.httptakenkart.catchthechicken) , [Love Ludo](https://loveludo.in))
-* Web Apps 💻 ( [frappyPie](https://frappypie.com) )
+* Web Apps 💻 ( [AI playground ](https://storiac.com) )
 * Mobile Apps (Native / Hybrid) 📱 📲 ( [Demos](https://play.google.com/store/apps/developer?id=psartworks+studios) )
 * Desktop Apps 💻
 * Robotics & IOTs 🤖
